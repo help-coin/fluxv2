@@ -20,7 +20,3 @@ spec:
         image: nginx:v1
         ports:
         - containerPort: 80
-
-
-
-v1-v2
